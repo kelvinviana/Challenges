@@ -1,3 +1,5 @@
+/* Write a function reverse which gets string as input and returns the string reversed. */
+
 class Reverse {
     public static String reverse(String s) {
         char[] chars = s.toCharArray();
